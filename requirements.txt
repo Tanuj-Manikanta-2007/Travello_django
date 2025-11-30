@@ -1,0 +1,8 @@
+# Project Python dependencies
+Django==5.2.8
+psycopg2-binary>=2.9.6
+python-dotenv>=1.0.0
+
+# Optional / useful tools (uncomment to install)
+# gunicorn==21.0.0
+# django-debug-toolbar>=4.0
